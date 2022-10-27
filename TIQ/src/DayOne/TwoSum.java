@@ -1,6 +1,8 @@
+package DayOne;
+
 import java.util.Arrays;
 
-public class TwoSum1 {
+public class TwoSum {
     public static void main(String[] args) {
         Solution my=new Solution();
         int[] ok={3,2,4};
